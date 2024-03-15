@@ -8,9 +8,12 @@ This capstone project explores the relationship between social media usage patte
 ## Contents
 
 1. **Data:** 
-   - The dataset used for analysis is provided in the `/data` directory.
+   - The dataset used for analysis is provided in the mmc2.xlsx
+   - The survey used for data collection is in mmc1.docx 
    - It includes responses from 791 adults aged 15–40 years, covering sociodemographic information, SNS usage patterns, and mental health assessments.
 
+Variables memo for reference:
+<img width="762" alt="Screen Shot 2024-03-15 at 5 54 52 PM" src="https://github.com/fy100/Capstone/assets/126711282/17d04947-cd9c-4f1f-8d7e-3e6524f29e94">
 
 ## Contributors
 
